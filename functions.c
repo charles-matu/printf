@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**PRINT CHAR**/
+/***PRINT CHAR**/
 
 /**
  * print_char - Prints a char
@@ -141,7 +141,7 @@ int print_int(va_list types, char buffer[],
 	return (write_number(is_negative, i, buffer, flags, width, precision, size));
 }
 
-/***PRINT BINARY**/
+/***PRINT *BINARY**/
 /**
  * print_binary - Prints an unsigned number
  * @types: Lista of arguments
