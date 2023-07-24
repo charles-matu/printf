@@ -1,6 +1,6 @@
 This group Project was done by charlse matu and Kelvin njeri.
 
-printf Group Project
+Printf Group Project
 
 Task 0:Write a function that produces output according to a format.
 Task 1:Handle the following conversion specifiers:(d, i)
